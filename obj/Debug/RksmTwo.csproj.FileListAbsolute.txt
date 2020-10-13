@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\RksmTwo\bin\Debug\RksmTwo.exe.config
+C:\Users\User\Desktop\RksmTwo\bin\Debug\RksmTwo.exe
+C:\Users\User\Desktop\RksmTwo\bin\Debug\RksmTwo.pdb
+C:\Users\User\Desktop\RksmTwo\obj\Debug\RksmTwo.csprojAssemblyReference.cache
+C:\Users\User\Desktop\RksmTwo\obj\Debug\RksmTwo.Form1.resources
+C:\Users\User\Desktop\RksmTwo\obj\Debug\RksmTwo.Properties.Resources.resources
+C:\Users\User\Desktop\RksmTwo\obj\Debug\RksmTwo.csproj.GenerateResource.cache
+C:\Users\User\Desktop\RksmTwo\obj\Debug\RksmTwo.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\RksmTwo\obj\Debug\RksmTwo.exe
+C:\Users\User\Desktop\RksmTwo\obj\Debug\RksmTwo.pdb
